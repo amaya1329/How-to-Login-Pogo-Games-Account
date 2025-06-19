@@ -6,7 +6,7 @@ Pogo Games is a popular online gaming platform that offers a variety of casual g
 
 In this document, we’ll guide you through the process of creating a Pogo Games login account, managing your account, and troubleshooting common login issues. Whether you’re a new user or a returning player, this guide will help you navigate the Pogo login process with ease.
 
-.. image:: https://club-pogo-login.readthedocs.io/en/latest/_images/click-login.png
+.. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
@@ -19,7 +19,7 @@ Before you can play your favorite games on Pogo, you'll need to create an accoun
 
 **Step 1: Visit the Pogo Website**
 
-To begin, open your preferred web browser and visit the official Pogo website at https://www.pogo.com. The homepage features a variety of games and prompts you to sign in or sign up. If you're a new user, you’ll need to click the "Join Now" button to begin the registration process.
+To begin, open your preferred web browser and visit the official Pogo website. The homepage features a variety of games and prompts you to sign in or sign up. If you're a new user, you’ll need to click the "Join Now" button to begin the registration process.
 
 **Step 2: Fill Out the Registration Form**
 
